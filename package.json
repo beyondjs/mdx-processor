@@ -1,0 +1,23 @@
+{
+	"name": "@beyond-js/mdx-bundle",
+	"version": "1.0.0",
+	"description": "MDX bundle for Beyond.js",
+	"main": "index.js",
+	"exports": {
+		"./processor": "./src/processor/index.js"
+	},
+	"engines": {
+		"node": ">=14.0.0"
+	},
+	"keywords": [
+		"beyond",
+		"beyondjs",
+		"bridge",
+		"bundle"
+	],
+	"author": "BeyondJS",
+	"license": "MIT",
+	"dependencies": {
+		"@beyond-js/bundles-sdk": "^1.0.0"
+	}
+}
