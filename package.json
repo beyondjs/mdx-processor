@@ -19,10 +19,10 @@
 	"license": "MIT",
 	"dependencies": {
 		"@beyond-js/bundles-sdk": "^1.0.0",
-		"@mdx-js/mdx": "^2.1.5",
-		"source-map": "^0.7.4"
+		"@mdx-js/mdx": "^2.1.5"
 	},
 	"devDependencies": {
-		"@types/mdx": "^2.1.0"
+		"@types/mdx": "^2.1.0",
+		"source-map": "^0.7.4"
 	}
 }
