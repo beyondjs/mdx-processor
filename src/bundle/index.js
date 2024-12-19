@@ -1,8 +1,7 @@
 module.exports = {
-	name: 'code',
+	name: 'mdx',
 	extname: ['.js', '.css'],
 	bundle: {
-		processors: ['ts', 'sass', 'js', 'jsx', 'less', 'scss', 'svelte', 'vue', 'mdx'],
 		template: true,
 	},
 };
